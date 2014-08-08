@@ -9,3 +9,19 @@ html, body, .container{
   height: 25%;
   border: 1px solid #000;
 }
+
+.row-one {
+	background-color: green
+}
+
+.row-two {
+	background-color: yellow
+}
+
+.row-three {
+	background-color: red
+}
+
+.row-four {
+	background-color: blue
+}
